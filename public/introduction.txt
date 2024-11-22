@@ -1,0 +1,11 @@
+This is a single part of online shopping store website.
+In this website the main concept of 
+contextApi
+Use of props
+Routing
+connection with firebase
+firebase authentication
+use of material icon in react 
+are covered.
+This is a small example of using contextApi for adding products in cart. and remove those items from cart.
+second is how to register user in firebase and how the registered user can signIn in firebase.

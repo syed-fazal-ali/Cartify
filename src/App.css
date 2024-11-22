@@ -1,0 +1,54 @@
+.itemscont{
+  border: 1px solid green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 20vh 5vw 20vh;
+  padding: 25pxco;
+
+}
+.Cartbtn{
+  background: transparent;
+  border: none;
+}
+.Cartbtn:hover{
+  background-color: plum;
+  padding: 5px;
+  border-radius: 3px;
+}
+.Navbar{
+  display: flex;
+  gap:20px;
+}
+.active{
+  color: #d63384;
+}
+.navbtn{
+  position: relative;
+  left: 2%;
+  background: transparent;
+  border: none;
+}
+.cartclass{
+  position: absolute;
+  left: 90vw;
+}
+.gbtn:hover{
+  background: #e785b6;
+  
+}
+.intro{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  
+}
+.signbox{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 93vw;
+
+}
